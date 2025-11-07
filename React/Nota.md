@@ -7,8 +7,8 @@ mi-app/
 ├── public/
 │   └── index.html        Archivo HTML principal
 ├── src/
-│   ├── App.js            Componente principal
-│   ├── index.js          Punto de entrada (renderiza React en el HTML)
+│   ├── App.jsx           Componente principal
+│   ├── index.js         Punto de entrada (renderiza React en el HTML)
 │   ├── components/       Carpeta donde van tus componentes
 │   └── App.css           Estilos del componente App
 ├── package.json          Lista dependencias y scripts de dicho proyecto
